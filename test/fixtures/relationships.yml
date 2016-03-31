@@ -1,0 +1,15 @@
+one:
+  follower: raja
+  followed: lana
+
+two:
+  follower: raja
+  followed: malory
+
+three:
+  follower: lana
+  followed: raja
+
+four:
+  follower: archer
+  followed: raja
